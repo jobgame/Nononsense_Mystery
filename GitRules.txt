@@ -2,3 +2,4 @@ git clone https://github.com/jobgame/Nononsense_Mystery.git
 git clone git@github.com:account/someproject.git
 
 Press sync after commit to see it in the web.
+Interesting notes
